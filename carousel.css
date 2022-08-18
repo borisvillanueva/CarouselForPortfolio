@@ -70,8 +70,8 @@ body {
 /* The circles or bullets and indicators */
 .dots {
     cursor: pointer;
-    height: 20px;
-    width: 20px;
+    height: 50px;
+    width: 50px;
     margin: 0 3px;
     background-color: #F5C8DB;
     border-radius: 50%;
@@ -92,7 +92,7 @@ body {
 
 .dots-warning {
     color: white;
-    font-size: 14px;
+    font-size: 30px;
     padding: 10px 14px;
     text-align: center;
     top: 0;
